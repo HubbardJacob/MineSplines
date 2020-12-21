@@ -2,7 +2,7 @@
 
 This is sourcecode for the minespline project. <br>
 * [Examples](#example-usage)
-* [How to use](#usage)
+* [How to use](#requirements)
 
 
 The minespline project is a library for grouping potential detections of landmines into curves. This library can also be used for grouping detections of any field of points. 
