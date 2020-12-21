@@ -1,8 +1,8 @@
 # MineSplines
 
 This is sourcecode for the minespline project. <br>
-* [Examples](#Example-Usage)
-* [How to use](#Usage)
+* [Examples](#example-usage)
+* [How to use](#usage)
 
 
 The minespline project is a library for grouping potential detections of landmines into curves. This library can also be used for grouping detections of any field of points. 
@@ -86,7 +86,7 @@ python -m minespline.mineliner --max-spacing 9 --top-k 10 --threshold 0.00001 sh
 
 ```
 
-#### Findine Minelines
+#### Finding Minelines
 
 
 From the command line interface (CLU) 
