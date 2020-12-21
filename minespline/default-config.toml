@@ -1,0 +1,35 @@
+
+# For paths, we will expand environment variables and the ~ to be the 
+# users home directory. 
+# The following environment variables exist:
+#
+# - ${PROJECT_ROOT} -- The root of the source
+
+
+[MODEL]
+
+# Mean distance between mines
+SPACING = 6
+
+# The is the variance in the spaceing -- mines 
+# are dstributed as with a mean spaceing of SPACING
+STD_ALONG = 0.2
+
+# This is used once 2 or more mines have been placed. 
+# This is assumes mines are placed on the same lines 
+# as the previous too, bor with a STD _across_ the
+# line. 
+STD_ACROSS = 0.0625
+
+
+
+MAX_DISTANCE = 9
+
+PROB_MISS = 0.01
+
+
+[DATA]
+GROUND_TRUTH_FOLDER='${PROJECT_ROOT}/data'
+
+
+
