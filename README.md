@@ -10,6 +10,10 @@ The minespline project is a library for grouping potential detections of landmin
 python -m minespline.mineliner evaluate MinelineHardCases1_1.geojson
 
 ```
+Input         |  Output
+:-------------------------:|:-------------------------:
+<img src="https://i.imgur.com/c1AmnAR.jpg" width="700" height="700"/>  |  <img src="https://i.imgur.com/33lCat4.jpg" width="600" height="600"/> 
+
 <img src="https://drive.google.com/file/d/14CG4svOA2TNU-NKN7Z1_0iZp70IrESA3/uc?" height=500> </img>
 
 # Requirements
