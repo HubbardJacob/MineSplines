@@ -41,7 +41,7 @@ Input         |  Output
 
 1. Obtain the sourcecode. If you have access to the git repo, then you can use
     ```bash
-    git clone https://https://gitlab.com/mu-indepth/minespline
+    git clone https://gitlab.com/hubbarj6/minesplines.git
     ```
 2. Use anaconda to install the project dependancies.
    This will create our own virtual python environment called `ML` (for Mine Lines). 
