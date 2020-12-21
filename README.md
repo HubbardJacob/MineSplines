@@ -1,11 +1,11 @@
 # MineSplines
 
-This is sourcecode for the minespline project. <br>
+The minespline project is a library for grouping potential detections of landmines into curves. This library can also be used for grouping detections of any field of points.  <br>
 * [Examples](#example-usage)
 * [How to use](#requirements)
 
 
-The minespline project is a library for grouping potential detections of landmines into curves. This library can also be used for grouping detections of any field of points. 
+
 
 # Example Usage
 The following example geojson files can be found in the <a href="https://gitlab.com/hubbarj6/minesplines/-/tree/master/data"> data directory</a> <br>
