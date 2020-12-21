@@ -8,7 +8,7 @@ The minespline project is a library for grouping potential detections of landmin
 
 
 # Example Usage
-The following example geojson files can be found in the <a href="https://gitlab.com/hubbarj6/minesplines/-/tree/master/data"> data directory</a> <br>
+The following example geojson files can be found in the <a href="https://gitlab.com/hubbarj6/minesplines/-/tree/master/data"> data directory</a> <br><br>
 <b>MinelineHardCases1_1 geojson file</b>
 ```bash
 python -m minespline.mineliner evaluate MinelineHardCases1_1.geojson
