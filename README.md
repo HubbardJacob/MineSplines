@@ -15,7 +15,7 @@ python -m minespline.mineliner evaluate MinelineHardCases1_1.geojson
 ```
 Input         |  Output
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/c1AmnAR.jpg" width="700" height="600"/>  |  <img src="https://i.imgur.com/33lCat4.jpg" width="600" height="500"/> 
+<img src="https://i.imgur.com/c1AmnAR.jpg" width="800" height="600"/>  |  <img src="https://i.imgur.com/33lCat4.jpg" width="700" height="500"/> 
 
 <b>VeryHardWithoutDistractors_1 geojson file</b>
 ```bash
@@ -23,7 +23,7 @@ python -m minespline.mineliner evaluate VeryHardWithoutDistractors_1.geojson
 ```
 Input         |  Output
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/nj4YvFQ.jpg" width="700" height="600"/>  |  <img src="https://i.imgur.com/oeH2i0L.jpg" width="600" height="500"/> 
+<img src="https://i.imgur.com/nj4YvFQ.jpg" width="800" height="600"/>  |  <img src="https://i.imgur.com/oeH2i0L.jpg" width="700" height="500"/> 
 
 <b>VeryHardWithDistractors_4 geojson file</b>
 ```bash
@@ -31,7 +31,7 @@ python -m minespline.mineliner evaluate VeryHardWithDistractors_4.geojson
 ```
 Input         |  Output
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/zp8eKZj.jpg" width="700" height="600"/>  |  <img src="https://i.imgur.com/rTdTq16.jpg" width="600" height="500"/> 
+<img src="https://i.imgur.com/zp8eKZj.jpg" width="800" height="600"/>  |  <img src="https://i.imgur.com/rTdTq16.jpg" width="700" height="500"/> 
 
 # Requirements
 
